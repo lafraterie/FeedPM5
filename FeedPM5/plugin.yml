@@ -1,0 +1,11 @@
+name: FeedPM5
+author: ValresMC
+version: 1.0.0
+api: [5.0.0]
+main: Feed\Valres\Main
+
+
+permissions:
+  feed.cmd:
+    default: true
+    description: "Feed Commande."
